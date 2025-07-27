@@ -145,3 +145,4 @@ dalvik.vm.lockprof.threshold=500
 net.bt.name=Android
 dalvik.vm.stack-trace-dir=/data/anr
 ro.expect.recovery_id=0x99434164588874b1a16df6834718b219d6e05575000000000000000000000000
+ro.product.first_api_level=27
